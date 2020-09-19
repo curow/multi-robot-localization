@@ -1,6 +1,6 @@
 % UTIAS Multi-Robot Cooperative Localization and Mapping Dataset
 % produced by Keith Leung (keith.leung@robotics.utias.utoronto.ca) 2009
-% Matlab script animateMRCLAMdataSet.m
+% Matlab script sampleMRCLAMdataSet.m
 % Description: This scripts samples the dataset at fixed intervals 
 % (default is 0.02s). Odometry data is interpolated using the recorded time. % Measurements are rounded to the nearest timestep. 
 % Run this script after loadMRCLAMdataSet.m

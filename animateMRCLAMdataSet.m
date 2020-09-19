@@ -9,7 +9,7 @@ start_timestep = 1;
 end_timestep = timesteps; 
 timesteps_per_frame = 50;
 pause_time_between_frames=0.01; %[s]
-draw_measurements = 0;
+draw_measurements = 1;
 % Options END %
 
 n_robots = 5;
