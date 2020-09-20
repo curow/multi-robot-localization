@@ -240,7 +240,7 @@ landmarks = dict(
 fig_dict["data"].append(landmarks)
 
 num_frames = timesteps // timesteps_per_frame
-for k in trange(num_frames):
+for k in range(num_frames):
     time = k * timesteps_per_frame * sample_time
     frame = {"data": [], "name": str(k)}
     for i in range(1, n_robots + 1):
