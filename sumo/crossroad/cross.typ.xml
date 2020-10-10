@@ -1,0 +1,4 @@
+<types>
+    <type id="high-priority" priority="3" numLanes="3" speed="10" />
+    <type id="low-priority" priority="2" numLanes="3" speed="10" />
+</types>

@@ -1,0 +1,37 @@
+<connections>
+    <!-- go stright -->
+    <connection from="1to0" to="0to2" fromLane="0" toLane="0" />
+    <connection from="1to0" to="0to2" fromLane="1" toLane="1" />
+    <connection from="1to0" to="0to2" fromLane="2" toLane="2" />
+    <!-- right turn -->
+    <connection from="1to0" to="0to3" fromLane="0" toLane="0" />
+    <!-- left turn -->
+    <connection from="1to0" to="0to4" fromLane="2" toLane="2" />
+
+    <!-- go stright -->
+    <connection from="2to0" to="0to1" fromLane="0" toLane="0" />
+    <connection from="2to0" to="0to1" fromLane="1" toLane="1" />
+    <connection from="2to0" to="0to1" fromLane="2" toLane="2" />
+    <!-- right turn -->
+    <connection from="2to0" to="0to4" fromLane="0" toLane="0" />
+    <!-- left turn -->
+    <connection from="2to0" to="0to3" fromLane="2" toLane="2" />
+
+    <!-- go stright -->
+    <connection from="3to0" to="0to4" fromLane="0" toLane="0" />
+    <connection from="3to0" to="0to4" fromLane="1" toLane="1" />
+    <connection from="3to0" to="0to4" fromLane="2" toLane="2" />
+    <!-- right turn -->
+    <connection from="3to0" to="0to2" fromLane="0" toLane="0" />
+    <!-- left turn -->
+    <connection from="3to0" to="0to1" fromLane="2" toLane="2" />
+
+    <!-- go stright -->
+    <connection from="4to0" to="0to3" fromLane="0" toLane="0" />
+    <connection from="4to0" to="0to3" fromLane="1" toLane="1" />
+    <connection from="4to0" to="0to3" fromLane="2" toLane="2" />
+    <!-- right turn -->
+    <connection from="4to0" to="0to1" fromLane="0" toLane="0" />
+    <!-- left turn -->
+    <connection from="4to0" to="0to2" fromLane="2" toLane="2" />
+</connections>

@@ -1,0 +1,13 @@
+<edges>
+    <edge id="1to0" from="1" to="0" type="high-priority" />
+    <edge id="0to1" from="0" to="1" type="low-priority" />
+
+    <edge id="2to0" from="2" to="0" type="high-priority" />
+    <edge id="0to2" from="0" to="2" type="low-priority" />
+
+    <edge id="3to0" from="3" to="0" type="high-priority" />
+    <edge id="0to3" from="0" to="3" type="low-priority" />
+
+    <edge id="4to0" from="4" to="0" type="high-priority" />
+    <edge id="0to4" from="0" to="4" type="low-priority" />
+</edges>
