@@ -12,11 +12,11 @@ net.plot()
 # Plot trajectories
 trajectories = SumoNetVis.Trajectories("fcd-output.xml")
 for trajectory in trajectories:
-        trajectory.assign_colors_speed()
-        trajectory.point_plot_kwargs["ms"] = 8  # set marker size. Can set any kwargs taken by matplotlib.pyplot.plot().
+        # trajectory.assign_colors_speed()
+        trajectory.point_plot_kwargs["ms"] = 9  # set marker size. Can set any kwargs taken by matplotlib.pyplot.plot().
 fig, ax = plt.gcf(), plt.gca()
-a = animation.FuncAnimation(fig, trajectories.plot_points, frames=trajectories.timestep_range(), repeat=False,
-                            interval=100*trajectories.timestep, fargs=(ax, True), blit=True)
+a = animation.FuncAnimation(fig, trajectories.plot_points, frames=trajectories.timestep_range() + 2, repeat=False,
+                            interval=200*trajectories.timestep, fargs=(ax,), blit=True)
 
 # Show figure
 plt.axis('square')

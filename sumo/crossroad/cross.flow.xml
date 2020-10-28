@@ -1,14 +1,18 @@
 <routes>
-	<flow id="flow12" begin="0" end="300" from="1to0" to="0to2" number="10" />
-	<flow id="flow13" begin="0" end="300" from="1to0" to="0to3" number="10" />
-	<flow id="flow14" begin="0" end="300" from="1to0" to="0to4" number="10" />
-	<flow id="flow21" begin="0" end="300" from="2to0" to="0to1" number="10" />
-	<flow id="flow23" begin="0" end="300" from="2to0" to="0to3" number="10" />
-	<flow id="flow24" begin="0" end="300" from="2to0" to="0to4" number="10" />
-	<flow id="flow31" begin="0" end="300" from="3to0" to="0to1" number="10" />
-	<flow id="flow32" begin="0" end="300" from="3to0" to="0to2" number="10" />
-	<flow id="flow34" begin="0" end="300" from="3to0" to="0to4" number="10" />
-	<flow id="flow41" begin="0" end="300" from="4to0" to="0to1" number="10" />
-	<flow id="flow42" begin="0" end="300" from="4to0" to="0to2" number="10" />
-	<flow id="flow43" begin="0" end="300" from="4to0" to="0to3" number="10" />
+	<flow id="43-1" begin="0" end="40" from="4to0" to="0to3" period="40" />
+	<flow id="42-1" begin="3" end="40" from="4to0" to="0to2" period="40" />
+	<flow id="41-1" begin="6" end="40" from="4to0" to="0to1" period="40" />
+	<flow id="34-1" begin="9" end="40" from="3to0" to="0to4" period="40" />
+	<flow id="32-1" begin="12" end="40" from="3to0" to="0to2" period="40" />
+	<flow id="31-1" begin="15" end="40" from="3to0" to="0to1" period="40" />
+	<flow id="24-1" begin="18" end="40" from="2to0" to="0to4" period="40" />
+	<flow id="23-1" begin="21" end="40" from="2to0" to="0to3" period="40" />
+	<flow id="21-1" begin="24" end="40" from="2to0" to="0to1" period="40" />
+	<flow id="14-1" begin="27" end="40" from="1to0" to="0to4" period="40" />
+	<flow id="13-1" begin="30" end="40" from="1to0" to="0to3" period="40" />
+	<flow id="12-1" begin="33" end="40" from="1to0" to="0to2" period="40" />
+	<flow id="12-2" begin="20" end="35" from="1to0" to="0to2" period="40" />
+	<flow id="21-2" begin="20" end="35" from="2to0" to="0to1" period="40" />
+	<flow id="34-2" begin="30" end="40" from="3to0" to="0to4" period="40" />
+	<flow id="43-2" begin="30" end="40" from="4to0" to="0to3" period="40" />
 </routes>
