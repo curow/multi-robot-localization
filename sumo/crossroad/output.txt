@@ -1,0 +1,2244 @@
+Loading configuration ... done.
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+ Retrying in 1 seconds
+time: 0
+end time 0
+
+time: 1
+end time 1
+
+time: 2
+end time 2
+
+time: 3
+current time: 3.0
+current vehicle list: ('DU.0',)
+departed vehicle list: ('DU.0',)
+arrived vehicle list: ()
+DU.0: (x:92.0, y:194.9), (angle:3.141592653589793)
+
+
+after optimization:
+Timestamp = 3, Vehicle = DU.0
+(88.7513, 196.124, 3.04941)
+
+
+
+end time 3
+
+time: 4
+current time: 4.0
+current vehicle list: ('DU.0',)
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.0: (x:92.0, y:192.75685595781542), (angle:3.141592653589793)
+
+
+after optimization:
+Timestamp = 4, Vehicle = DU.0
+(94.1459, 191.026, 2.7399)
+
+
+
+end time 4
+
+time: 5
+current time: 5.0
+current vehicle list: ('DU.0',)
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.0: (x:92.0, y:189.20650960281492), (angle:3.141592653589793)
+
+
+after optimization:
+Timestamp = 5, Vehicle = DU.0
+(88.5104, 190.729, -3.08591)
+
+
+
+end time 5
+
+time: 6
+current time: 6.0
+current vehicle list: ('DU.0', 'DU.1')
+departed vehicle list: ('DU.1',)
+arrived vehicle list: ()
+DU.0: (x:92.0, y:184.1202716980828), (angle:3.141592653589793)
+DU.1: (x:92.0, y:194.9), (angle:3.141592653589793)
+
+
+after optimization:
+Timestamp = 6, Vehicle = DU.0
+(92.4987, 181.196, 2.78203)
+
+Timestamp = 6, Vehicle = DU.1
+(92.6448, 195.668, -2.94371)
+
+
+
+end time 6
+
+time: 7
+current time: 7.0
+current vehicle list: ('DU.0', 'DU.1')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.0: (x:92.0, y:177.408577470202), (angle:3.141592653589793)
+DU.1: (x:92.0, y:192.95464248305652), (angle:3.141592653589793)
+
+
+after optimization:
+Timestamp = 7, Vehicle = DU.0
+(94.1998, 177.753, 2.98838)
+
+Timestamp = 7, Vehicle = DU.1
+(91.9156, 191.789, 2.9495)
+
+
+
+end time 7
+
+time: 8
+current time: 8.0
+current vehicle list: ('DU.0', 'DU.1')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.0: (x:92.0, y:168.57740427583923), (angle:3.141592653589793)
+DU.1: (x:92.0, y:189.31428018794395), (angle:3.141592653589793)
+
+
+after optimization:
+Timestamp = 8, Vehicle = DU.0
+(89.7106, 166.774, -3.05389)
+
+Timestamp = 8, Vehicle = DU.1
+(90.1983, 190.682, 3.12014)
+
+
+
+end time 8
+
+time: 9
+current time: 9.0
+current vehicle list: ('DU.0', 'DU.1')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.0: (x:92.0, y:158.90047335929285), (angle:3.141592653589793)
+DU.1: (x:92.0, y:183.3526448226068), (angle:3.141592653589793)
+
+
+after optimization:
+Timestamp = 9, Vehicle = DU.0
+(93.8715, 159.436, -3.04903)
+
+Timestamp = 9, Vehicle = DU.1
+(93.3833, 184.146, 3.02166)
+
+
+
+end time 9
+
+time: 10
+current time: 10.0
+current vehicle list: ('DU.0', 'DU.1')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.0: (x:92.0, y:149.23426695355778), (angle:3.141592653589793)
+DU.1: (x:92.0, y:176.09036685042082), (angle:3.141592653589793)
+
+
+after optimization:
+Timestamp = 10, Vehicle = DU.0
+(93.6904, 150.577, 3.13938)
+
+Timestamp = 10, Vehicle = DU.1
+(94.2346, 175.622, -2.8519)
+
+
+
+end time 10
+
+time: 11
+current time: 11.0
+current vehicle list: ('DU.0', 'DU.1', 'DU.2', 'LR.0')
+departed vehicle list: ('DU.2', 'LR.0')
+arrived vehicle list: ()
+DU.0: (x:92.0, y:138.77893012476767), (angle:3.141592653589793)
+DU.1: (x:92.0, y:167.99789987162805), (angle:3.141592653589793)
+DU.2: (x:92.0, y:194.9), (angle:3.141592653589793)
+LR.0: (x:5.1, y:92.0), (angle:1.5707963267948966)
+
+
+after optimization:
+Timestamp = 11, Vehicle = DU.0
+(90.5159, 139.163, 2.98667)
+
+Timestamp = 11, Vehicle = DU.1
+(93.4943, 164.613, -3.13273)
+
+Timestamp = 11, Vehicle = DU.2
+(93.274, 194.518, -2.77503)
+
+Timestamp = 11, Vehicle = LR.0
+(3.86559, 92.2403, 1.62319)
+
+
+
+end time 11
+
+time: 12
+current time: 12.0
+current vehicle list: ('DU.0', 'DU.1', 'DU.2', 'LR.0')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.0: (x:92.0, y:128.47854662924735), (angle:3.141592653589793)
+DU.1: (x:92.0, y:159.45992767073915), (angle:3.141592653589793)
+DU.2: (x:92.0, y:192.91087826546283), (angle:3.141592653589793)
+LR.0: (x:7.018950720666907, y:92.0), (angle:1.5707963267948966)
+
+
+after optimization:
+Timestamp = 12, Vehicle = DU.0
+(92.7045, 130.764, 3.08062)
+
+Timestamp = 12, Vehicle = DU.1
+(92.4178, 158.287, -2.99516)
+
+Timestamp = 12, Vehicle = DU.2
+(90.1378, 192.34, -2.98711)
+
+Timestamp = 12, Vehicle = LR.0
+(4.51321, 90.4912, 1.66032)
+
+
+
+end time 12
+
+time: 13
+current time: 13.0
+current vehicle list: ('DU.0', 'DU.1', 'DU.2', 'LR.0')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.0: (x:92.0, y:118.17610085855948), (angle:3.141592653589793)
+DU.1: (x:92.0, y:150.28332622753808), (angle:3.141592653589793)
+DU.2: (x:92.0, y:188.39647619649767), (angle:3.141592653589793)
+LR.0: (x:10.660075501399115, y:92.0), (angle:1.5707963267948966)
+
+
+after optimization:
+Timestamp = 13, Vehicle = DU.0
+(92.5962, 117.199, 3.1284)
+
+Timestamp = 13, Vehicle = DU.1
+(89.7367, 147.244, -2.76014)
+
+Timestamp = 13, Vehicle = DU.2
+(94.793, 191.285, 3.05355)
+
+Timestamp = 13, Vehicle = LR.0
+(8.90774, 92.3201, 1.62589)
+
+
+
+end time 13
+
+time: 14
+current time: 14.0
+current vehicle list: ('DU.0', 'DU.1', 'DU.2', 'LR.0', 'UD.0')
+departed vehicle list: ('UD.0',)
+arrived vehicle list: ()
+DU.0: (x:92.0, y:108.76879031848921), (angle:3.141592653589793)
+DU.1: (x:92.0, y:141.30963897691112), (angle:3.141592653589793)
+DU.2: (x:92.0, y:182.34872313735542), (angle:3.141592653589793)
+LR.0: (x:16.303573075984605, y:92.0), (angle:1.5707963267948966)
+UD.0: (x:108.0, y:5.1), (angle:0.0)
+
+
+after optimization:
+Timestamp = 14, Vehicle = DU.0
+(96.0444, 109.381, -2.99708)
+
+Timestamp = 14, Vehicle = DU.1
+(91.5398, 139.786, 3.10279)
+
+Timestamp = 14, Vehicle = DU.2
+(92.4015, 181.976, -3.07003)
+
+Timestamp = 14, Vehicle = LR.0
+(16.0656, 92.3966, 1.45374)
+
+Timestamp = 14, Vehicle = UD.0
+(108.755, 5.34364, 0.197132)
+
+
+
+end time 14
+
+time: 15
+current time: 15.0
+current vehicle list: ('DU.0', 'DU.1', 'DU.2', 'LR.0', 'UD.0')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.0: (x:92.0, y:98.17265942717779), (angle:3.141592653589793)
+DU.1: (x:92.0, y:132.58530415420543), (angle:3.141592653589793)
+DU.2: (x:92.0, y:174.84784449953585), (angle:3.141592653589793)
+LR.0: (x:24.388655566191304, y:92.0), (angle:1.5707963267948966)
+UD.0: (x:108.0, y:6.8141260907519605), (angle:0.0)
+
+
+after optimization:
+Timestamp = 15, Vehicle = DU.0
+(89.6022, 97.8023, 3.07609)
+
+Timestamp = 15, Vehicle = DU.1
+(93.2775, 131.738, -3.12809)
+
+Timestamp = 15, Vehicle = DU.2
+(92.6877, 174.761, 3.03338)
+
+Timestamp = 15, Vehicle = LR.0
+(25.2829, 93.3961, 1.78451)
+
+Timestamp = 15, Vehicle = UD.0
+(108.807, 8.00128, -0.191098)
+
+
+
+end time 15
+
+time: 16
+current time: 16.0
+current vehicle list: ('DU.0', 'DU.1', 'DU.2', 'LR.0', 'LR.1', 'UD.0')
+departed vehicle list: ('LR.1',)
+arrived vehicle list: ()
+DU.0: (x:92.0, y:87.97768672035467), (angle:3.141592653589793)
+DU.1: (x:92.0, y:124.43287805196604), (angle:3.141592653589793)
+DU.2: (x:92.0, y:166.00546879752073), (angle:3.141592653589793)
+LR.0: (x:34.673407873185354, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:5.1, y:92.0), (angle:1.5707963267948966)
+UD.0: (x:108.0, y:11.050417199148796), (angle:0.0)
+
+
+after optimization:
+Timestamp = 16, Vehicle = DU.0
+(91.6612, 86.4966, 2.97514)
+
+Timestamp = 16, Vehicle = DU.1
+(92.5324, 124.368, 2.90194)
+
+Timestamp = 16, Vehicle = DU.2
+(91.3697, 164.313, 2.99158)
+
+Timestamp = 16, Vehicle = LR.0
+(37.298, 92.7011, 1.56404)
+
+Timestamp = 16, Vehicle = LR.1
+(2.85716, 88.7685, 1.64216)
+
+Timestamp = 16, Vehicle = UD.0
+(107.951, 9.50009, 0.222312)
+
+
+
+end time 16
+
+time: 17
+current time: 17.0
+current vehicle list: ('DU.0', 'DU.1', 'DU.2', 'DU.3', 'LR.0', 'LR.1', 'UD.0')
+departed vehicle list: ('DU.3',)
+arrived vehicle list: ()
+DU.0: (x:92.0, y:78.2953320144999), (angle:3.141592653589793)
+DU.1: (x:92.0, y:115.554741170531), (angle:3.141592653589793)
+DU.2: (x:92.0, y:156.03351600170748), (angle:3.141592653589793)
+DU.3: (x:92.0, y:194.9), (angle:3.141592653589793)
+LR.0: (x:44.78231757441922, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:7.366701839771121, y:92.0), (angle:1.5707963267948966)
+UD.0: (x:108.0, y:17.31080781966448), (angle:0.0)
+
+
+after optimization:
+Timestamp = 17, Vehicle = DU.0
+(88.0658, 82.0113, -2.92584)
+
+Timestamp = 17, Vehicle = DU.1
+(88.7447, 114.879, 2.93228)
+
+Timestamp = 17, Vehicle = DU.2
+(90.2733, 156.395, 3.03619)
+
+Timestamp = 17, Vehicle = DU.3
+(94.4601, 193.799, -3.00322)
+
+Timestamp = 17, Vehicle = LR.0Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+
+(43.7412, 90.7529, 1.37107)
+
+Timestamp = 17, Vehicle = LR.1
+(7.27357, 93.6037, 1.53823)
+
+Timestamp = 17, Vehicle = UD.0
+(107.797, 19.0486, 0.130972)
+
+
+
+end time 17
+
+time: 18
+current time: 18.0
+current vehicle list: ('DU.0', 'DU.1', 'DU.2', 'DU.3', 'LR.0', 'LR.1', 'UD.0', 'UD.1')
+departed vehicle list: ('UD.1',)
+arrived vehicle list: ()
+DU.0: (x:92.0, y:68.75294737373967), (angle:3.141592653589793)
+DU.1: (x:92.0, y:107.47024321337241), (angle:3.141592653589793)
+DU.2: (x:92.0, y:146.7165740799747), (angle:3.141592653589793)
+DU.3: (x:92.0, y:192.94471502692903), (angle:3.141592653589793)
+LR.0: (x:54.89562503812675, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:12.158729705004951, y:92.0), (angle:1.5707963267948966)
+UD.0: (x:108.0, y:24.873683612351307), (angle:0.0)
+UD.1: (x:108.0, y:5.1), (angle:0.0)
+
+
+after optimization:
+Timestamp = 18, Vehicle = DU.0
+(90.9411, 68.4775, -3.12801)
+
+Timestamp = 18, Vehicle = DU.1
+(90.7632, 107.005, -3.02246)
+
+Timestamp = 18, Vehicle = DU.2
+(92.6202, 151.586, -2.96028)
+
+Timestamp = 18, Vehicle = DU.3
+(87.626, 192.062, 3.12411)
+
+Timestamp = 18, Vehicle = LR.0
+(55.1337, 91.7271, 1.57383)
+
+Timestamp = 18, Vehicle = LR.1
+(13.1929, 89.756, 1.39678)
+
+Timestamp = 18, Vehicle = UD.0
+(108.498, 24.2804, 0.0864307)
+
+Timestamp = 18, Vehicle = UD.1
+(107.651, 7.07267, 0.0372687)
+
+
+
+end time 18
+
+time: 19
+current time: 19.0
+current vehicle list: ('DU.0', 'DU.1', 'DU.2', 'DU.3', 'LR.0', 'LR.1', 'RL.0', 'UD.0', 'UD.1')
+departed vehicle list: ('RL.0',)
+arrived vehicle list: ()
+DU.0: (x:92.0, y:59.35071966019531), (angle:3.141592653589793)
+DU.1: (x:92.0, y:98.94171810572165), (angle:3.141592653589793)
+DU.2: (x:92.0, y:137.64304243009045), (angle:3.141592653589793)
+DU.3: (x:92.0, y:188.41250884204638), (angle:3.141592653589793)
+LR.0: (x:64.8580754852271, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:18.71084598889574, y:92.0), (angle:1.5707963267948966)
+RL.0: (x:194.9, y:108.0), (angle:4.71238898038469)
+UD.0: (x:108.0, y:34.03278259658255), (angle:0.0)
+UD.1: (x:108.0, y:6.432963024359196), (angle:0.0)
+
+
+after optimization:
+Timestamp = 19, Vehicle = DU.0
+(87.6186, 63.1434, 3.02868)
+
+Timestamp = 19, Vehicle = DU.1
+(90.197, 93.8851, 3.0982)
+
+Timestamp = 19, Vehicle = DU.2
+(91.9127, 138.096, -2.90921)
+
+Timestamp = 19, Vehicle = DU.3
+(92.5746, 187.052, 3.08578)
+
+Timestamp = 19, Vehicle = LR.0
+(64.231, 89.4549, 1.65862)
+
+Timestamp = 19, Vehicle = LR.1
+(18.9317, 94.5865, 1.46305)
+
+Timestamp = 19, Vehicle = RL.0
+(195.381, 106.874, -1.52181)
+
+Timestamp = 19, Vehicle = UD.0
+(107.854, 36.3535, 0.0644886)
+
+Timestamp = 19, Vehicle = UD.1
+(111.809, 8.65508, 0.115026)
+
+
+
+end time 19
+
+time: 20
+current time: 20.0
+current vehicle list: ('DU.0', 'DU.1', 'DU.2', 'DU.3', 'LR.0', 'LR.1', 'RL.0', 'UD.0', 'UD.1')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.0: (x:92.0, y:49.3087990489521), (angle:3.141592653589793)
+DU.1: (x:92.0, y:90.44620833155946), (angle:3.141592653589793)
+DU.2: (x:92.0, y:127.93043211039739), (angle:3.141592653589793)
+DU.3: (x:92.0, y:182.4818195407046), (angle:3.141592653589793)
+LR.0: (x:75.17695294610837, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:26.10431301524005, y:92.0), (angle:1.5707963267948966)
+RL.0: (x:192.34570911019108, y:108.0), (angle:4.71238898038469)
+UD.0: (x:108.0, y:43.32063895435773), (angle:0.0)
+UD.1: (x:108.0, y:9.262626288714818), (angle:0.0)
+
+
+after optimization:
+Timestamp = 20, Vehicle = DU.0
+(95.2549, 48.1042, -3.06824)
+
+Timestamp = 20, Vehicle = DU.1
+(90.3781, 88.3573, 3.07163)
+
+Timestamp = 20, Vehicle = DU.2
+(90.352, 129.055, -2.8004)
+
+Timestamp = 20, Vehicle = DU.3
+(94.6639, 186.003, 2.85349)
+
+Timestamp = 20, Vehicle = LR.0
+(77.4152, 90.2189, 1.9122)
+
+Timestamp = 20, Vehicle = LR.1
+(28.7897, 91.347, 1.76529)
+
+Timestamp = 20, Vehicle = RL.0
+(189.872, 109.173, -1.41793)
+
+Timestamp = 20, Vehicle = UD.0
+(109.247, 42.4507, 0.245662)
+
+Timestamp = 20, Vehicle = UD.1
+(108.258, 12.4965, 0.0877448)
+
+
+
+end time 20
+
+time: 21
+current time: 21.0
+current vehicle list: ('DU.0', 'DU.1', 'DU.2', 'DU.3', 'DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.0', 'UD.1')
+departed vehicle list: ('DU.4',)
+arrived vehicle list: ()
+DU.0: (x:92.0, y:39.7442245925002), (angle:3.141592653589793)
+DU.1: (x:92.0, y:82.29429021507401), (angle:3.141592653589793)
+DU.2: (x:92.0, y:118.7869906066757), (angle:3.141592653589793)
+DU.3: (x:92.0, y:174.72089273720047), (angle:3.141592653589793)
+DU.4: (x:92.0, y:194.9), (angle:3.141592653589793)
+LR.0: (x:81.64887767843557, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:33.95499936745183, y:92.0), (angle:1.5707963267948966)
+RL.0: (x:187.26584664499387, y:108.0), (angle:4.71238898038469)
+UD.0: (x:108.0, y:52.36618124555801), (angle:0.0)
+UD.1: (x:108.0, y:14.574950293055737), (angle:0.0)
+
+
+after optimization:
+Timestamp = 21, Vehicle = DU.0
+(88.8824, 39.5254, 2.92871)
+
+Timestamp = 21, Vehicle = DU.1
+(87.1013, 83.3858, 3.10689)
+
+Timestamp = 21, Vehicle = DU.2
+(93.4008, 119.194, -3.09924)
+
+Timestamp = 21, Vehicle = DU.3
+(91.5963, 173.399, -2.8288)
+
+Timestamp = 21, Vehicle = DU.4
+(92.2409, 197.366, 2.93524)
+
+Timestamp = 21, Vehicle = LR.0
+(84.9973, 90.6685, 1.71479)
+
+Timestamp = 21, Vehicle = LR.1
+(34.577, 91.0036, 1.57047)
+
+Timestamp = 21, Vehicle = RL.0
+(185.543, 110.793, -1.45304)
+
+Timestamp = 21, Vehicle = UD.0
+(109.237, 51.4798, 0.315998)
+
+Timestamp = 21, Vehicle = UD.1
+(105.389, 13.885, -0.0402891)
+
+
+
+end time 21
+
+time: 22
+current time: 22.0
+current vehicle list: ('DU.0', 'DU.1', 'DU.2', 'DU.3', 'DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.0', 'UD.1')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.0: (x:92.0, y:30.019542255659914), (angle:3.141592653589793)
+DU.1: (x:92.0, y:73.77058248645643), (angle:3.141592653589793)
+DU.2: (x:92.0, y:108.86006127736941), (angle:3.141592653589793)
+DU.3: (x:92.0, y:165.46634831621776), (angle:3.141592653589793)
+DU.4: (x:92.0, y:192.56440883474426), (angle:3.141592653589793)
+LR.0: (x:84.1896310342718, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:40.991880301784136, y:92.0), (angle:1.5707963267948966)
+RL.0: (x:180.19358085615096, y:108.0), (angle:4.71238898038469)
+UD.0: (x:108.0, y:62.355201410681545), (angle:0.0)
+UD.1: (x:108.0, y:21.343132322235032), (angle:0.0)
+
+
+after optimization:
+Timestamp = 22, Vehicle = DU.0
+(97.5862, 26.1445, -3.07766)
+
+Timestamp = 22, Vehicle = DU.1
+(94.0892, 69.6682, -3.03938)
+
+Timestamp = 22, Vehicle = DU.2
+(91.1409, 110.074, -3.12305)
+
+Timestamp = 22, Vehicle = DU.3
+(95.0514, 163.876, 3.07624)
+
+Timestamp = 22, Vehicle = DU.4
+(91.7319, 190.16, -3.09189)
+
+Timestamp = 22, Vehicle = LR.0
+(83.6366, 92.5249, 1.44282)
+
+Timestamp = 22, Vehicle = LR.1
+(37.9052, 93.672, 1.70323)
+
+Timestamp = 22, Vehicle = RL.0
+(178.439, 106.23, -1.72225)
+
+Timestamp = 22, Vehicle = UD.0
+(105.118, 64.8197, -0.0443628)
+
+Timestamp = 22, Vehicle = UD.1
+(110.8, 19.7793, -0.0763597)
+
+
+
+end time 22
+
+time: 23
+current time: 23.0
+current vehicle list: ('DU.0', 'DU.1', 'DU.2', 'DU.3', 'DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.0', 'UD.1', 'UD.2')
+departed vehicle list: ('UD.2',)
+arrived vehicle list: ()
+DU.0: (x:92.0, y:19.719135372371298), (angle:3.141592653589793)
+DU.1: (x:92.0, y:64.73345495949634), (angle:3.141592653589793)
+DU.2: (x:92.0, y:99.1456606890736), (angle:3.141592653589793)
+DU.3: (x:92.0, y:155.85521615188978), (angle:3.141592653589793)
+DU.4: (x:92.0, y:188.08932136155198), (angle:3.141592653589793)
+LR.0: (x:84.84336673733868, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:48.06091738655526, y:92.0), (angle:1.5707963267948966)
+RL.0: (x:171.2333591265108, y:108.0), (angle:4.71238898038469)
+UD.0: (x:108.0, y:72.21528032432785), (angle:0.0)
+UD.1: (x:108.0, y:29.97026083004611), (angle:0.0)
+UD.2: (x:108.0, y:5.1), (angle:0.0)
+
+
+after optimization:
+Timestamp = 23, Vehicle = DU.0
+(91.8091, 17.8762, -3.13099)
+
+Timestamp = 23, Vehicle = DU.1
+(91.5778, 64.7004, -3.11067)
+
+Timestamp = 23, Vehicle = DU.2
+(94.2329, 98.9838, 3.10903)
+
+Timestamp = 23, Vehicle = DU.3
+(92.1136, 154.871, 3.02279)
+
+Timestamp = 23, Vehicle = DU.4
+(92.169, 188.684, -3.06876)
+
+Timestamp = 23, Vehicle = LR.0
+(86.7542, 93.5695, 1.67306)
+
+Timestamp = 23, Vehicle = LR.1
+(51.0032, 96.1316, 1.4259)
+
+Timestamp = 23, Vehicle = RL.0
+(170.675, 109.761, -1.28756)
+
+Timestamp = 23, Vehicle = UD.0
+(108.027, 70.8259, 0.108525)
+
+Timestamp = 23, Vehicle = UD.1Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+
+(106.8, 32.2171, 0.0532791)
+
+Timestamp = 23, Vehicle = UD.2
+(110.778, 3.77731, 0.528984)
+
+
+
+end time 23
+
+time: 24
+current time: 24.0
+current vehicle list: ('DU.0', 'DU.1', 'DU.2', 'DU.3', 'DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.0', 'UD.1', 'UD.2')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.0: (x:92.0, y:9.585476063032075), (angle:3.141592653589793)
+DU.1: (x:92.0, y:56.02359245083082), (angle:3.141592653589793)
+DU.2: (x:92.0, y:90.05287424298241), (angle:3.141592653589793)
+DU.3: (x:92.0, y:146.30146142573915), (angle:3.141592653589793)
+DU.4: (x:92.0, y:181.32780616027304), (angle:3.141592653589793)
+LR.0: (x:85.20245637927033, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:55.1762079357672, y:92.0), (angle:1.5707963267948966)
+RL.0: (x:162.04997587550292, y:108.0), (angle:4.71238898038469)
+UD.0: (x:108.0, y:82.40717067086382), (angle:0.0)
+UD.1: (x:108.0, y:37.654444678960296), (angle:0.0)
+UD.2: (x:108.0, y:7.012097218306735), (angle:0.0)
+
+
+after optimization:
+Timestamp = 24, Vehicle = DU.0
+(90.3508, 8.27632, 3.13266)
+
+Timestamp = 24, Vehicle = DU.1
+(93.4512, 57.7591, 3.11786)
+
+Timestamp = 24, Vehicle = DU.2
+(91.2783, 89.7459, 3.00221)
+
+Timestamp = 24, Vehicle = DU.3
+(90.7578, 144.389, 3.0184)
+
+Timestamp = 24, Vehicle = DU.4
+(89.6146, 181.804, -2.93996)
+
+Timestamp = 24, Vehicle = LR.0
+(85.274, 92.6179, 1.43103)
+
+Timestamp = 24, Vehicle = LR.1
+(52.2733, 91.7864, 1.46293)
+
+Timestamp = 24, Vehicle = RL.0
+(158.165, 112.074, -2.00825)
+
+Timestamp = 24, Vehicle = UD.0
+(103.772, 81.5839, 0.223145)
+
+Timestamp = 24, Vehicle = UD.1
+(107.116, 38.3015, -0.0191971)
+
+Timestamp = 24, Vehicle = UD.2
+(108.017, 6.6757, -0.0304002)
+
+
+
+end time 24
+
+time: 25
+current time: 25.0
+current vehicle list: ('DU.1', 'DU.2', 'DU.3', 'DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.0', 'UD.1', 'UD.2')
+departed vehicle list: ()
+arrived vehicle list: ('DU.0',)
+DU.1: (x:92.0, y:46.794244719570486), (angle:3.141592653589793)
+DU.2: (x:92.0, y:80.04869506532245), (angle:3.141592653589793)
+DU.3: (x:92.0, y:136.15970962383616), (angle:3.141592653589793)
+DU.4: (x:92.0, y:173.13640649907595), (angle:3.141592653589793)
+LR.0: (x:85.38041738525415, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:62.35877365915081, y:92.0), (angle:1.5707963267948966)
+RL.0: (x:153.2649266208664, y:108.0), (angle:4.71238898038469)
+UD.0: (x:108.0, y:91.564071307853), (angle:0.0)
+UD.1: (x:108.0, y:45.340314173980964), (angle:0.0)
+UD.2: (x:108.0, y:10.992936124303379), (angle:0.0)
+
+
+after optimization:
+Timestamp = 25, Vehicle = DU.1
+(93.4027, 47.8687, -3.11432)
+
+Timestamp = 25, Vehicle = DU.2
+(92.3804, 80.9462, 3.02423)
+
+Timestamp = 25, Vehicle = DU.3
+(93.115, 134.281, 2.80242)
+
+Timestamp = 25, Vehicle = DU.4
+(91.295, 173.609, -3.01457)
+
+Timestamp = 25, Vehicle = LR.0
+(90.9455, 93.0301, 1.67284)
+
+Timestamp = 25, Vehicle = LR.1
+(62.315, 92.6485, 1.489)
+
+Timestamp = 25, Vehicle = RL.0
+(152.439, 106.293, -1.25058)
+
+Timestamp = 25, Vehicle = UD.0
+(109.129, 95.8397, -0.137102)
+
+Timestamp = 25, Vehicle = UD.1
+(104.488, 46.7699, 0.148825)
+
+Timestamp = 25, Vehicle = UD.2
+(108.071, 7.91535, -0.0781725)
+
+
+
+end time 25
+
+time: 26
+current time: 26.0
+current vehicle list: ('DU.1', 'DU.2', 'DU.3', 'DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.0', 'UD.1', 'UD.2')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.1: (x:92.0, y:37.54475520942383), (angle:3.141592653589793)
+DU.2: (x:92.0, y:70.30267192601755), (angle:3.141592653589793)
+DU.3: (x:92.0, y:126.8079304059293), (angle:3.141592653589793)
+DU.4: (x:92.0, y:165.2044611502639), (angle:3.141592653589793)
+LR.0: (x:85.39567771534593, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:69.60764537163128, y:92.0), (angle:1.5707963267948966)
+RL.0: (x:144.13105268623866, y:108.0), (angle:4.71238898038469)
+UD.0: (x:108.0, y:100.98184858216686), (angle:0.0)
+UD.1: (x:108.0, y:54.16899883226757), (angle:0.0)
+UD.2: (x:108.0, y:16.741467076097614), (angle:0.0)
+
+
+after optimization:
+Timestamp = 26, Vehicle = DU.1
+(90.764, 37.9131, 3.12135)
+
+Timestamp = 26, Vehicle = DU.2
+(92.3509, 72.1705, 3.04856)
+
+Timestamp = 26, Vehicle = DU.3
+(94.8531, 123.272, 3.05862)
+
+Timestamp = 26, Vehicle = DU.4
+(91.0448, 167.248, -3.00292)
+
+Timestamp = 26, Vehicle = LR.0
+(83.5544, 88.2537, 1.56462)
+
+Timestamp = 26, Vehicle = LR.1
+(72.2207, 96.2212, 1.58413)
+
+Timestamp = 26, Vehicle = RL.0
+(146.597, 107.266, -1.6446)
+
+Timestamp = 26, Vehicle = UD.0
+(108.173, 96.6969, -0.144892)
+
+Timestamp = 26, Vehicle = UD.1
+(108.903, 56.3773, -0.0491723)
+
+Timestamp = 26, Vehicle = UD.2
+(112.113, 20.262, -0.0105859)
+
+
+
+end time 26
+
+time: 27
+current time: 27.0
+current vehicle list: ('DU.1', 'DU.2', 'DU.3', 'DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.0', 'UD.1', 'UD.2', 'UD.3')
+departed vehicle list: ('UD.3',)
+arrived vehicle list: ()
+DU.1: (x:92.0, y:28.96657053088444), (angle:3.141592653589793)
+DU.2: (x:92.0, y:60.58879608709575), (angle:3.141592653589793)
+DU.3: (x:92.0, y:117.06277312873581), (angle:3.141592653589793)
+DU.4: (x:92.0, y:157.69920745584625), (angle:3.141592653589793)
+LR.0: (x:85.39803027015266, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:75.93102829467888, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:134.98908766071196, y:108.0), (angle:4.71238898038469)
+UD.0: (x:108.0, y:110.8774592701161), (angle:0.0)
+UD.1: (x:108.0, y:62.15857354041403), (angle:0.0)
+UD.2: (x:108.0, y:24.193332368112166), (angle:0.0)
+UD.3: (x:108.0, y:5.1), (angle:0.0)
+
+
+after optimization:
+Timestamp = 27, Vehicle = DU.1
+(96.827, 32.5217, 3.00583)
+
+Timestamp = 27, Vehicle = DU.2
+(89.7683, 59.9683, 2.77608)
+
+Timestamp = 27, Vehicle = DU.3
+(92.4575, 113.836, 3.07618)
+
+Timestamp = 27, Vehicle = DU.4
+(93.4999, 153.59, -3.13227)
+
+Timestamp = 27, Vehicle = LR.0
+(83.817, 91.344, 1.66026)
+
+Timestamp = 27, Vehicle = LR.1
+(74.3948, 94.0394, 1.67543)
+
+Timestamp = 27, Vehicle = RL.0
+(134.783, 106.318, -1.37062)
+
+Timestamp = 27, Vehicle = UD.0
+(107.901, 111.811, 0.180412)
+
+Timestamp = 27, Vehicle = UD.1
+(109.618, 65.7381, 0.0787639)
+
+Timestamp = 27, Vehicle = UD.2
+(104.632, 21.873, 0.235638)
+
+Timestamp = 27, Vehicle = UD.3
+(107.337, 5.87308, -0.148607)
+
+
+
+end time 27
+
+time: 28
+current time: 28.0
+current vehicle list: ('DU.1', 'DU.2', 'DU.3', 'DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.0', 'UD.1', 'UD.2', 'UD.3')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.1: (x:92.0, y:20.665154350956698), (angle:3.141592653589793)
+DU.2: (x:92.0, y:51.571948209781034), (angle:3.141592653589793)
+DU.3: (x:92.0, y:107.54152724707161), (angle:3.141592653589793)
+DU.4: (x:92.0, y:149.27041402581895), (angle:3.141592653589793)
+LR.0: (x:85.39896226949338, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:82.29643736097502, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:125.99426813140093, y:108.0), (angle:4.71238898038469)
+UD.0: (x:108.0, y:120.03145099103237), (angle:0.0)
+UD.1: (x:108.0, y:70.47002934956156), (angle:0.0)
+UD.2: (x:108.0, y:33.938195400033145), (angle:0.0)
+UD.3: (x:108.0, y:6.690261032572016), (angle:0.0)
+
+
+after optimization:
+Timestamp = 28, Vehicle = DU.1
+(93.4448, 18.4672, 2.98423)
+
+Timestamp = 28, Vehicle = DU.2
+(93.6449, 50.1285, 3.03245)
+
+Timestamp = 28, Vehicle = DU.3
+(93.1877, 108.229, 2.96703)
+
+Timestamp = 28, Vehicle = DU.4
+(89.91, 148.053, 3.12949)
+
+Timestamp = 28, Vehicle = LR.0
+(85.9782, 92.845, 1.75377)
+
+Timestamp = 28, Vehicle = LR.1
+(81.8338, 95.8801, 1.7639)
+
+Timestamp = 28, Vehicle = RL.0
+(125.596, 108.238, -1.24504)
+
+Timestamp = 28, Vehicle = UD.0
+(107.162, 119.073, -0.340707)
+
+Timestamp = 28, Vehicle = UD.1
+(105.195, 71.3723, -0.121287)
+
+Timestamp = 28, Vehicle = UD.2
+(109.031, 31.7085, -0.133921)
+
+Timestamp = 28, Vehicle = UD.3
+(109.349, 9.61205, 0.103406)
+
+
+
+end time 28
+
+time: 29
+current time: 29.0
+current vehicle list: ('DU.1', 'DU.2', 'DU.3', 'DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.0', 'UD.1', 'UD.2', 'UD.3')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.1: (x:92.0, y:11.926708979573135), (angle:3.141592653589793)
+DU.2: (x:92.0, y:42.74597599993962), (angle:3.141592653589793)
+DU.3: (x:92.0, y:97.96250592534037), (angle:3.141592653589793)
+DU.4: (x:92.0, y:141.37689571803554), (angle:3.141592653589793)
+LR.0: (x:85.39896226949338, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:85.00585085384176, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:118.41119013884081, y:108.0), (angle:4.71238898038469)Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+
+UD.0: (x:108.0, y:129.46207568112317), (angle:0.0)
+UD.1: (x:108.0, y:78.68319061481508), (angle:0.0)
+UD.2: (x:108.0, y:44.52632498028656), (angle:0.0)
+UD.3: (x:108.0, y:10.201473211380652), (angle:0.0)
+
+
+after optimization:
+Timestamp = 29, Vehicle = DU.1
+(92.8297, 11.0228, 2.86598)
+
+Timestamp = 29, Vehicle = DU.2
+(93.6573, 41.6882, 2.75115)
+
+Timestamp = 29, Vehicle = DU.3
+(93.6184, 97.4314, 3.04664)
+
+Timestamp = 29, Vehicle = DU.4
+(91.8858, 142.976, 3.0907)
+
+Timestamp = 29, Vehicle = LR.0
+(85.9489, 92.1797, 1.44915)
+
+Timestamp = 29, Vehicle = LR.1
+(85.8766, 95.2482, 1.48732)
+
+Timestamp = 29, Vehicle = RL.0
+(118.805, 104.612, -1.54115)
+
+Timestamp = 29, Vehicle = UD.0
+(105.672, 130.849, -0.132308)
+
+Timestamp = 29, Vehicle = UD.1
+(106.382, 79.7981, 0.0315972)
+
+Timestamp = 29, Vehicle = UD.2
+(110.214, 47.4121, -0.0941922)
+
+Timestamp = 29, Vehicle = UD.3
+(108.257, 13.7223, 0.168693)
+
+
+
+end time 29
+
+time: 30
+current time: 30.0
+current vehicle list: ('DU.1', 'DU.2', 'DU.3', 'DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.0', 'UD.1', 'UD.2', 'UD.3', 'UD.4')
+departed vehicle list: ('UD.4',)
+arrived vehicle list: ()
+DU.1: (x:92.0, y:3.437001212849566), (angle:3.141592653589793)
+DU.2: (x:92.0, y:32.651848813208716), (angle:3.141592653589793)
+DU.3: (x:92.0, y:88.09012522430176), (angle:3.141592653589793)
+DU.4: (x:92.0, y:133.08936935739084), (angle:3.141592653589793)
+LR.0: (x:85.39896226949338, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:85.20722344286544, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:115.00176176803558, y:108.0), (angle:4.71238898038469)
+UD.0: (x:108.0, y:138.66952133013194), (angle:0.0)
+UD.1: (x:108.0, y:87.2397454244091), (angle:0.0)
+UD.2: (x:108.0, y:54.3039096483023), (angle:0.0)
+UD.3: (x:108.0, y:15.967616644315418), (angle:0.0)
+UD.4: (x:108.0, y:5.1), (angle:0.0)
+
+
+after optimization:
+Timestamp = 30, Vehicle = DU.1
+(89.9724, 7.89123, 2.845)
+
+Timestamp = 30, Vehicle = DU.2
+(92.5517, 30.1939, -2.91301)
+
+Timestamp = 30, Vehicle = DU.3
+(93.0255, 88.4421, -3.0777)
+
+Timestamp = 30, Vehicle = DU.4
+(89.9776, 136.042, 3.1166)
+
+Timestamp = 30, Vehicle = LR.0
+(85.6407, 92.2823, 1.65894)
+
+Timestamp = 30, Vehicle = LR.1
+(85.9565, 95.2469, 1.62743)
+
+Timestamp = 30, Vehicle = RL.0
+(117.774, 108.279, -1.47513)
+
+Timestamp = 30, Vehicle = UD.0
+(104.725, 146.587, 0.11321)
+
+Timestamp = 30, Vehicle = UD.1
+(108.215, 84.4421, 0.0142712)
+
+Timestamp = 30, Vehicle = UD.2
+(107.08, 55.5926, 0.0648687)
+
+Timestamp = 30, Vehicle = UD.3
+(111.706, 16.2521, 0.0896236)
+
+Timestamp = 30, Vehicle = UD.4
+(108.745, 4.80302, -0.0320094)
+
+
+
+end time 30
+
+time: 31
+current time: 31.0
+current vehicle list: ('DU.2', 'DU.3', 'DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.0', 'UD.1', 'UD.2', 'UD.3', 'UD.4')
+departed vehicle list: ()
+arrived vehicle list: ('DU.1',)
+DU.2: (x:92.0, y:22.610516998915486), (angle:3.141592653589793)
+DU.3: (x:92.0, y:78.63902796425351), (angle:3.141592653589793)
+DU.4: (x:92.0, y:124.93221365889795), (angle:3.141592653589793)
+LR.0: (x:85.39896226949338, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:85.34071477641083, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:114.65837860863164, y:108.0), (angle:4.71238898038469)
+UD.0: (x:108.0, y:148.96277795992353), (angle:0.0)
+UD.1: (x:108.0, y:94.91682677230344), (angle:0.0)
+UD.2: (x:108.0, y:64.9901904629301), (angle:0.0)
+UD.3: (x:108.0, y:23.823851203382947), (angle:0.0)
+UD.4: (x:108.0, y:7.466403508931398), (angle:0.0)
+
+
+after optimization:
+Timestamp = 31, Vehicle = DU.2
+(90.0273, 23.5428, -2.89987)
+
+Timestamp = 31, Vehicle = DU.3
+(94.1459, 77.6487, 2.97543)
+
+Timestamp = 31, Vehicle = DU.4
+(93.0363, 127.855, 3.05147)
+
+Timestamp = 31, Vehicle = LR.0
+(85.2072, 93.9071, 1.5456)
+
+Timestamp = 31, Vehicle = LR.1
+(84.9956, 96.9366, 1.54231)
+
+Timestamp = 31, Vehicle = RL.0
+(113.329, 106.43, -1.91027)
+
+Timestamp = 31, Vehicle = UD.0
+(106.169, 151.413, -0.183878)
+
+Timestamp = 31, Vehicle = UD.1
+(109.632, 93.692, 0.0686105)
+
+Timestamp = 31, Vehicle = UD.2
+(104.352, 67.3243, -0.00692349)
+
+Timestamp = 31, Vehicle = UD.3
+(109.772, 24.2036, 0.139288)
+
+Timestamp = 31, Vehicle = UD.4
+(107.796, 8.95312, -0.26347)
+
+
+
+end time 31
+
+time: 32
+current time: 32.0
+current vehicle list: ('DU.2', 'DU.3', 'DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.0', 'UD.1', 'UD.2', 'UD.3', 'UD.4')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.2: (x:92.0, y:13.10932899830405), (angle:3.141592653589793)
+DU.3: (x:92.0, y:68.68087995068075), (angle:3.141592653589793)
+DU.4: (x:92.0, y:117.63203016278432), (angle:3.141592653589793)
+LR.0: (x:85.39896226949338, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:85.37301551022826, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:114.62536336435728, y:108.0), (angle:4.71238898038469)
+UD.0: (x:108.0, y:159.06237243108248), (angle:0.0)
+UD.1: (x:108.0, y:103.7482551642876), (angle:0.0)
+UD.2: (x:108.0, y:75.47735085287003), (angle:0.0)
+UD.3: (x:108.0, y:32.79574057526422), (angle:0.0)
+UD.4: (x:108.0, y:11.32391706123017), (angle:0.0)
+
+
+after optimization:
+Timestamp = 32, Vehicle = DU.2
+(93.1867, 12.0887, 2.98176)
+
+Timestamp = 32, Vehicle = DU.3
+(92.8145, 66.711, -2.95462)
+
+Timestamp = 32, Vehicle = DU.4
+(94.1943, 115.955, 2.96022)
+
+Timestamp = 32, Vehicle = LR.0
+(87.2273, 92.2414, 1.6067)
+
+Timestamp = 32, Vehicle = LR.1
+(87.6752, 95.4067, 1.63168)
+
+Timestamp = 32, Vehicle = RL.0
+(116.372, 106.719, -1.61005)
+
+Timestamp = 32, Vehicle = UD.0
+(107.434, 158.53, 0.186571)
+
+Timestamp = 32, Vehicle = UD.1
+(109.485, 102.907, -0.0515913)
+
+Timestamp = 32, Vehicle = UD.2
+(107.787, 69.8954, -0.0796075)
+
+Timestamp = 32, Vehicle = UD.3
+(106.04, 34.1809, -0.0835441)
+
+Timestamp = 32, Vehicle = UD.4
+(107.342, 14.0181, -0.183097)
+
+
+
+end time 32
+
+time: 33
+current time: 33.0
+current vehicle list: ('DU.2', 'DU.3', 'DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.0', 'UD.1', 'UD.2', 'UD.3', 'UD.4')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.2: (x:92.0, y:3.712329344858091), (angle:3.141592653589793)
+DU.3: (x:92.0, y:59.40946808295638), (angle:3.141592653589793)
+DU.4: (x:92.0, y:109.66382215291662), (angle:3.141592653589793)
+LR.0: (x:85.39896226949338, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:85.39464564491345, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:114.60542328865361, y:108.0), (angle:4.71238898038469)
+UD.0: (x:108.0, y:169.05498973328184), (angle:0.0)
+UD.1: (x:108.0, y:112.53188100245691), (angle:0.0)
+UD.2: (x:108.0, y:85.80070878846877), (angle:0.0)
+UD.3: (x:108.0, y:42.85363039642576), (angle:0.0)
+UD.4: (x:108.0, y:16.873653530329463), (angle:0.0)
+
+
+after optimization:
+Timestamp = 33, Vehicle = DU.2
+(93.992, 6.10405, -2.70422)
+
+Timestamp = 33, Vehicle = DU.3
+(88.1604, 62.1929, -3.06301)
+
+Timestamp = 33, Vehicle = DU.4
+(90.7451, 108.161, -3.11709)
+
+Timestamp = 33, Vehicle = LR.0
+(85.9094, 91.2504, 1.51249)
+
+Timestamp = 33, Vehicle = LR.1
+(85.7858, 94.3646, 1.51608)
+
+Timestamp = 33, Vehicle = RL.0
+(115.501, 107.796, -1.72072)
+
+Timestamp = 33, Vehicle = UD.0
+(107.08, 167.473, 0.21358)
+
+Timestamp = 33, Vehicle = UD.1
+(109.446, 113.597, -0.154961)
+
+Timestamp = 33, Vehicle = UD.2
+(108.052, 83.1033, 0.227335)
+
+Timestamp = 33, Vehicle = UD.3
+(107.275, 39.8833, -0.103404)
+
+Timestamp = 33, Vehicle = UD.4
+(103.39, 16.81, 0.0196328)
+
+
+
+end time 33
+
+time: 34
+current time: 34.0
+current vehicle list: ('DU.3', 'DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.0', 'UD.1', 'UD.2', 'UD.3', 'UD.4')
+departed vehicle list: ()
+arrived vehicle list: ('DU.2',)
+DU.3: (x:92.0, y:49.51449344808493), (angle:3.141592653589793)
+DU.4: (x:92.0, y:101.46921379760147), (angle:3.141592653589793)
+LR.0: (x:85.39896226949338, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:85.39877603313415, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:114.60313290529734, y:108.0), (angle:4.71238898038469)
+UD.0: (x:108.0, y:179.1763838618881), (angle:0.0)
+UD.1: (x:108.0, y:120.230510913081), (angle:0.0)
+UD.2: (x:108.0, y:95.50375390206271), (angle:0.0)
+UD.3: (x:108.0, y:52.30006494598469), (angle:0.0)
+UD.4: (x:108.0, y:24.104004932614036), (angle:0.0)
+
+
+after optimization:
+Timestamp = 34, Vehicle = DU.3
+(91.7839, 49.4557, 3.11807)
+
+Timestamp = 34, Vehicle = DU.4
+(91.4809, 102.111, 3.10584)
+
+Timestamp = 34, Vehicle = LR.0
+(84.8953, 92.9039, 1.56414)
+
+Timestamp = 34, Vehicle = LR.1
+(84.6516, 96.3347, 1.54257)
+
+Timestamp = 34, Vehicle = RL.0Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+
+(112.176, 113.397, -1.55819)
+
+Timestamp = 34, Vehicle = UD.0
+(110.02, 176.063, -0.106891)
+
+Timestamp = 34, Vehicle = UD.1
+(107.721, 118.773, 0.0927056)
+
+Timestamp = 34, Vehicle = UD.2
+(108.008, 96.1463, -0.126574)
+
+Timestamp = 34, Vehicle = UD.3
+(111.073, 52.2993, 0.225767)
+
+Timestamp = 34, Vehicle = UD.4
+(107.122, 25.2841, -0.118575)
+
+
+
+end time 34
+
+time: 35
+current time: 35.0
+current vehicle list: ('DU.3', 'DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.0', 'UD.1', 'UD.2', 'UD.3', 'UD.4')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.3: (x:92.0, y:39.97580333259157), (angle:3.141592653589793)
+DU.4: (x:92.0, y:93.96951018474607), (angle:3.141592653589793)
+LR.0: (x:85.39896226949338, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:85.3989060284078, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:114.60197713680705, y:108.0), (angle:4.71238898038469)
+UD.0: (x:108.0, y:188.92138091717885), (angle:0.0)
+UD.1: (x:108.0, y:128.4527615702925), (angle:0.0)
+UD.2: (x:108.0, y:105.46496323393433), (angle:0.0)
+UD.3: (x:108.0, y:61.99636550607167), (angle:0.0)
+UD.4: (x:108.0, y:33.21837773763109), (angle:0.0)
+
+
+after optimization:
+Timestamp = 35, Vehicle = DU.3
+(96.2889, 40.7149, 3.13855)
+
+Timestamp = 35, Vehicle = DU.4
+(91.1265, 92.6668, 2.97571)
+
+Timestamp = 35, Vehicle = LR.0
+(84.2195, 91.7032, 1.40609)
+
+Timestamp = 35, Vehicle = LR.1
+(85.1963, 95.0891, 1.40865)
+
+Timestamp = 35, Vehicle = RL.0
+(114.162, 105.437, -1.51381)
+
+Timestamp = 35, Vehicle = UD.0
+(109.011, 191.357, -0.338713)
+
+Timestamp = 35, Vehicle = UD.1
+(106.388, 128.551, -0.104037)
+
+Timestamp = 35, Vehicle = UD.2
+(107.95, 102.5, 0.0401446)
+
+Timestamp = 35, Vehicle = UD.3
+(108.852, 62.0945, 0.192377)
+
+Timestamp = 35, Vehicle = UD.4
+(105.541, 35.4356, -0.122683)
+
+
+
+end time 35
+
+time: 36
+current time: 36.0
+current vehicle list: ('DU.3', 'DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.0', 'UD.1', 'UD.2', 'UD.3', 'UD.4')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.3: (x:92.0, y:30.77356553247342), (angle:3.141592653589793)
+DU.4: (x:92.0, y:86.0049422077407), (angle:3.141592653589793)
+LR.0: (x:85.39896226949338, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:85.3989060284078, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:114.6012835057193, y:108.0), (angle:4.71238898038469)
+UD.0: (x:108.0, y:198.65943508542415), (angle:0.0)
+UD.1: (x:108.0, y:136.56672703549958), (angle:0.0)
+UD.2: (x:108.0, y:115.96482544290014), (angle:0.0)
+UD.3: (x:108.0, y:72.18703194933487), (angle:0.0)
+UD.4: (x:108.0, y:42.690345602090986), (angle:0.0)
+
+
+after optimization:
+Timestamp = 36, Vehicle = DU.3
+(92.2443, 32.1353, 2.95521)
+
+Timestamp = 36, Vehicle = DU.4
+(92.3018, 85.8492, -3.13522)
+
+Timestamp = 36, Vehicle = LR.0
+(85.928, 91.9845, 1.60506)
+
+Timestamp = 36, Vehicle = LR.1
+(85.9953, 95.3333, 1.61417)
+
+Timestamp = 36, Vehicle = RL.0
+(116.432, 108.301, -1.64728)
+
+Timestamp = 36, Vehicle = UD.0
+(108.371, 199.448, 0.126628)
+
+Timestamp = 36, Vehicle = UD.1
+(110.992, 137.918, 0.104582)
+
+Timestamp = 36, Vehicle = UD.2
+(105.06, 117.178, 0.400329)
+
+Timestamp = 36, Vehicle = UD.3
+(106.34, 70.148, -0.0374642)
+
+Timestamp = 36, Vehicle = UD.4
+(110.042, 43.7398, -0.0832739)
+
+
+
+end time 36
+
+time: 37
+current time: 37.0
+current vehicle list: ('DU.3', 'DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.1', 'UD.2', 'UD.3', 'UD.4')
+departed vehicle list: ()
+arrived vehicle list: ('UD.0',)
+DU.3: (x:92.0, y:21.518936901507843), (angle:3.141592653589793)
+DU.4: (x:92.0, y:77.84271698701413), (angle:3.141592653589793)
+LR.0: (x:85.39896226949338, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:85.3989060284078, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:114.60110871926548, y:108.0), (angle:4.71238898038469)
+UD.1: (x:108.0, y:144.60843124647334), (angle:0.0)
+UD.2: (x:108.0, y:125.76295301904756), (angle:0.0)
+UD.3: (x:108.0, y:81.89238285719428), (angle:0.0)
+UD.4: (x:108.0, y:52.1330734359651), (angle:0.0)
+
+
+after optimization:
+Timestamp = 37, Vehicle = DU.3
+(93.0447, 22.2574, -3.09523)
+
+Timestamp = 37, Vehicle = DU.4
+(92.5209, 76.9525, -3.12447)
+
+Timestamp = 37, Vehicle = LR.0
+(87.0439, 94.2552, 1.78736)
+
+Timestamp = 37, Vehicle = LR.1
+(87.0756, 97.9008, 1.80552)
+
+Timestamp = 37, Vehicle = RL.0
+(113.127, 106.787, -1.54206)
+
+Timestamp = 37, Vehicle = UD.1
+(109.556, 145.228, 0.18349)
+
+Timestamp = 37, Vehicle = UD.2
+(108.19, 125.924, -0.134007)
+
+Timestamp = 37, Vehicle = UD.3
+(107.271, 80.9729, 0.297663)
+
+Timestamp = 37, Vehicle = UD.4
+(108.481, 50.1342, 0.0695685)
+
+
+
+end time 37
+
+time: 38
+current time: 38.0
+current vehicle list: ('DU.3', 'DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.1', 'UD.2', 'UD.3', 'UD.4')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.3: (x:92.0, y:12.263949113372092), (angle:3.141592653589793)
+DU.4: (x:92.0, y:70.06221667516567), (angle:3.141592653589793)
+LR.0: (x:85.39896226949338, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:85.3989060284078, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:114.60100279178428, y:108.0), (angle:4.71238898038469)
+UD.1: (x:108.0, y:152.8426892742527), (angle:0.0)
+UD.2: (x:108.0, y:134.91133407438926), (angle:0.0)
+UD.3: (x:108.0, y:91.97518412969553), (angle:0.0)
+UD.4: (x:108.0, y:61.819055228436994), (angle:0.0)
+
+
+after optimization:
+Timestamp = 38, Vehicle = DU.3
+(94.9166, 11.2753, 2.88081)
+
+Timestamp = 38, Vehicle = DU.4
+(92.8934, 69.6535, -3.03474)
+
+Timestamp = 38, Vehicle = LR.0
+(86.0718, 94.6518, 1.64212)
+
+Timestamp = 38, Vehicle = LR.1
+(86.0106, 97.8856, 1.65372)
+
+Timestamp = 38, Vehicle = RL.0
+(116.924, 108.905, -1.38405)
+
+Timestamp = 38, Vehicle = UD.1
+(105.909, 153.553, 0.131841)
+
+Timestamp = 38, Vehicle = UD.2
+(109.402, 134.513, 0.052702)
+
+Timestamp = 38, Vehicle = UD.3
+(107.211, 89.6316, 0.171743)
+
+Timestamp = 38, Vehicle = UD.4
+(106.881, 64.5786, 0.105148)
+
+
+
+end time 38
+
+time: 39
+current time: 39.0
+current vehicle list: ('DU.3', 'DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.1', 'UD.2', 'UD.3', 'UD.4')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.3: (x:92.0, y:3.1025174692550053), (angle:3.141592653589793)
+DU.4: (x:92.0, y:61.5220478996391), (angle:3.141592653589793)
+LR.0: (x:85.39896226949338, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:85.3989060284078, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:114.60100279178428, y:108.0), (angle:4.71238898038469)
+UD.1: (x:108.0, y:161.50654367251394), (angle:0.0)
+UD.2: (x:108.0, y:143.34623967723545), (angle:0.0)
+UD.3: (x:108.0, y:101.38576219123337), (angle:0.0)
+UD.4: (x:108.0, y:71.9344304721041), (angle:0.0)
+
+
+after optimization:
+Timestamp = 39, Vehicle = DU.3
+(88.7366, 1.38073, 2.98797)
+
+Timestamp = 39, Vehicle = DU.4
+(92.038, 61.9756, 2.86853)
+
+Timestamp = 39, Vehicle = LR.0
+(83.4736, 92.461, 1.61945)
+
+Timestamp = 39, Vehicle = LR.1
+(83.2867, 95.6875, 1.64968)
+
+Timestamp = 39, Vehicle = RL.0
+(116.718, 107.7, -1.55575)
+
+Timestamp = 39, Vehicle = UD.1
+(105.162, 160.873, 0.111873)
+
+Timestamp = 39, Vehicle = UD.2
+(110.44, 141.079, -0.033257)
+
+Timestamp = 39, Vehicle = UD.3
+(109.975, 100.685, 0.00711411)
+
+Timestamp = 39, Vehicle = UD.4
+(106.103, 71.0875, 0.175923)
+
+
+
+end time 39
+
+time: 40
+current time: 40.0
+current vehicle list: ('DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.1', 'UD.2', 'UD.3', 'UD.4')
+departed vehicle list: ()
+arrived vehicle list: ('DU.3',)
+DU.4: (x:92.0, y:53.91132920989498), (angle:3.141592653589793)
+LR.0: (x:85.39896226949338, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:85.3989060284078, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:114.60100279178428, y:108.0), (angle:4.71238898038469)
+UD.1: (x:108.0, y:170.14534566506768), (angle:0.0)
+UD.2: (x:108.0, y:152.1314073015154), (angle:0.0)
+UD.3: (x:108.0, y:110.51280307933703), (angle:0.0)
+UD.4: (x:108.0, y:82.12897741854917), (angle:0.0)
+
+
+after optimization:
+Timestamp = 40, Vehicle = DU.4
+(93.7805, 53.6887, 3.13819)
+
+Timestamp = 40, Vehicle = LR.0
+(90.6728, 91.1098, 1.65359)
+
+Timestamp = 40, Vehicle = LR.1
+(90.0497, 95.0435, 1.64376)
+
+Timestamp = 40, Vehicle = RL.0
+(115.28, 107.062, -1.55511)
+
+Timestamp = 40, Vehicle = UD.1
+(106.053, 170.496, -0.00933467)
+
+Timestamp = 40, Vehicle = UD.2
+(107.634, 151.689, 0.0348646)
+
+Timestamp = 40, Vehicle = UD.3
+(108.73, 109.603, 0.000101527)
+
+Timestamp = 40, Vehicle = UD.4
+(108.321, 81.8887, 0.0673003)
+
+
+
+end time 40
+
+time: 41
+current time: 41.0
+current vehicle list: ('DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.1', 'UD.2', 'UD.3', 'UD.4')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.4: (x:92.0, y:45.951566047077414), (angle:3.141592653589793)
+LR.0: (x:85.39896226949338, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:85.3989060284078, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:114.60100279178428, y:108.0), (angle:4.71238898038469)
+UD.1: (x:108.0, y:178.31529153422892), (angle:0.0)
+UD.2: (x:108.0, y:160.7655228031451), (angle:0.0)
+UD.3: (x:108.0, y:120.46511776573041), (angle:0.0)
+UD.4: (x:108.0, y:92.55645235707271), (angle:0.0)
+
+
+after optimization:
+Timestamp = 41, Vehicle = DU.4
+(93.7428, 47.6812, -3.03535)
+
+Timestamp = 41, Vehicle = LR.0
+(85.5469, 91.4745, 1.71439)
+
+Timestamp = 41, Vehicle = LR.1
+(85.0399, 94.1455, 1.67937)
+
+Timestamp = 41, Vehicle = RL.0
+(114.126, 104.867, -1.47327)
+
+Timestamp = 41, Vehicle = UD.1
+(104.99, 174.427, -0.204906)
+
+Timestamp = 41, Vehicle = UD.2
+(107.286, 159.723, -0.0401625)
+
+Timestamp = 41, Vehicle = UD.3
+(107.018, 121.824, 0.249154)
+
+Timestamp = 41, Vehicle = UD.4
+(108.072, 96.6164, -0.110725)
+
+
+
+end time 41
+
+time: 42
+current time: 42.0
+current vehicle list: ('DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.1', 'UD.2', 'UD.3', 'UD.4')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.4: (x:92.0, y:37.83825971697795), (angle:3.141592653589793)
+LR.0: (x:85.39896226949338, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:85.3989060284078, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:114.60100279178428, y:108.0), (angle:4.71238898038469)
+UD.1: (x:108.0, y:186.7140955472497), (angle:0.0)
+UD.2: (x:108.0, y:168.60019938669956), (angle:0.0)
+UD.3: (x:108.0, y:129.98622184497322), (angle:0.0)
+UD.4: (x:108.0, y:102.90074596275286), (angle:0.0)
+
+
+after optimization:
+Timestamp = 42, Vehicle = DU.4
+(91.6116, 32.7074, 3.06059)
+
+Timestamp = 42, Vehicle = LR.0
+(84.4956, 92.357, 1.38781)
+
+Timestamp = 42, Vehicle = LR.1
+(85.0492, 95.6421, 1.41074)
+
+Timestamp = 42, Vehicle = RL.0
+(112.877, 111.532, -1.46646)
+
+Timestamp = 42, Vehicle = UD.1
+(110.35, 189.903, -0.156284)
+
+Timestamp = 42, Vehicle = UD.2
+(105.938, 168.056, -0.34483)
+
+Timestamp = 42, Vehicle = UD.3
+(106.822, 131.69, 0.285292)
+
+Timestamp = 42, Vehicle = UD.4
+(107.189, 105.739, 0.111046)
+
+
+
+end time 42
+
+time: 43
+current time: 43.0
+current vehicle list: ('DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.1', 'UD.2', 'UD.3', 'UD.4')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.4: (x:92.0, y:29.46290064164613), (angle:3.141592653589793)
+LR.0: (x:85.39896226949338, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:85.3989060284078, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:114.60100279178428, y:108.0), (angle:4.71238898038469)
+UD.1: (x:108.0, y:195.37988254234534), (angle:0.0)
+UD.2: (x:108.0, y:177.09298963808348), (angle:0.0)
+UD.3: (x:108.0, y:139.043698960338), (angle:0.0)
+UD.4: (x:108.0, y:113.21333198557744), (angle:0.0)
+
+
+after optimization:
+Timestamp = 43, Vehicle = DU.4
+(91.0322, 26.3455, -2.728)
+
+Timestamp = 43, Vehicle = LR.0
+(88.437, 94.8885, 1.73186)
+
+Timestamp = 43, Vehicle = LR.1
+(88.0781, 97.6761, 1.7383)
+
+Timestamp = 43, Vehicle = RL.0
+(115.024, 107.634, -1.5875)
+
+Timestamp = 43, Vehicle = UD.1
+(108.117, 198.644, -0.0701254)
+
+Timestamp = 43, Vehicle = UD.2
+(107.6, 177.108, 0.0481125)
+
+Timestamp = 43, Vehicle = UD.3
+(104.474, 141.82, 0.0394793)
+
+Timestamp = 43, Vehicle = UD.4
+(109.041, 112.72, -0.00970123)
+
+
+
+end time 43
+
+time: 44
+current time: 44.0
+current vehicle list: ('DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.2', 'UD.3', 'UD.4')
+departed vehicle list: ()
+arrived vehicle list: ('UD.1',)
+DU.4: (x:92.0, y:21.28740450005526), (angle:3.141592653589793)
+LR.0: (x:85.39896226949338, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:85.3989060284078, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:114.60100279178428, y:108.0), (angle:4.71238898038469)
+UD.2: (x:108.0, y:186.24021499852398), (angle:0.0)
+UD.3: (x:108.0, y:148.2488550451307), (angle:0.0)
+UD.4: (x:108.0, y:123.46219111060819), (angle:0.0)
+
+
+after optimization:
+Timestamp = 44, Vehicle = DU.4
+(92.6245, 22.7087, -2.94417)
+
+Timestamp = 44, Vehicle = LR.0
+(84.1316, 91.0823, 1.65413)
+
+Timestamp = 44, Vehicle = LR.1
+(84.5227, 94.4625, 1.62203)
+
+Timestamp = 44, Vehicle = RL.0
+(115.255, 112.616, -1.63697)
+
+Timestamp = 44, Vehicle = UD.2
+(111.596, 184.858, 0.199415)
+
+Timestamp = 44, Vehicle = UD.3
+(102.97, 149.878, 0.048189)
+
+Timestamp = 44, Vehicle = UD.4
+(107.506, 123.22, -0.0454764)
+
+
+
+end time 44
+
+time: 45
+current time: 45.0
+current vehicle list: ('DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.2', 'UD.3', 'UD.4')
+departed vehicle list: ()
+arrived vehicle list: ()
+DU.4: (x:92.0, y:13.737584756769607), (angle:3.141592653589793)
+LR.0: (x:85.39896226949338, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:85.3989060284078, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:114.60100279178428, y:108.0), (angle:4.71238898038469)
+UD.2: (x:108.0, y:196.91928604602992), (angle:0.0)
+UD.3: (x:108.0, y:157.78968623702903), (angle:0.0)
+UD.4: (x:108.0, y:132.6767130986746), (angle:0.0)
+
+
+after optimization:
+Timestamp = 45, Vehicle = DU.4
+(91.4184, 14.6137, -3.11121)
+
+Timestamp = 45, Vehicle = LR.0
+(85.9211, 91.3513, 1.68239)
+
+Timestamp = 45, Vehicle = LR.1
+(85.6595, 94.3584, 1.70012)
+
+Timestamp = 45, Vehicle = RL.0
+(112.153, 108.534, -1.47336)
+
+Timestamp = 45, Vehicle = UD.2
+(106.036, 196.025, -0.144539)
+
+Timestamp = 45, Vehicle = UD.3
+(107.779, 156.931, -0.0828316)
+
+Timestamp = 45, Vehicle = UD.4
+(109.362, 136.202, -0.062398)
+
+
+
+end time 45
+
+time: 46
+current time: 46.0
+current vehicle list: ('DU.4', 'LR.0', 'LR.1', 'RL.0', 'UD.3', 'UD.4')
+departed vehicle list: ()
+arrived vehicle list: ('UD.2',)
+DU.4: (x:92.0, y:5.438440086587008), (angle:3.141592653589793)
+LR.0: (x:87.1853990315022, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:87.58094054169224, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:112.59724669841076, y:108.0), (angle:4.71238898038469)
+UD.3: (x:108.0, y:167.78403883774325), (angle:0.0)
+UD.4: (x:108.0, y:142.8883709409741), (angle:0.0)
+
+
+after optimization:
+Timestamp = 46, Vehicle = DU.4
+(93.4599, 6.67193, 3.13927)
+
+Timestamp = 46, Vehicle = LR.0
+(90.072, 91.9253, 1.58955)
+
+Timestamp = 46, Vehicle = LR.1
+(90.9107, 95.1417, 1.58684)
+
+Timestamp = 46, Vehicle = RL.0
+(116.399, 108.073, -1.81939)
+
+Timestamp = 46, Vehicle = UD.3
+(110.588, 166.381, -0.0710994)
+
+Timestamp = 46, Vehicle = UD.4
+(106.022, 140.989, -0.231037)
+
+
+
+end time 46
+
+time: 47
+current time: 47.0
+current vehicle list: ('LR.0', 'LR.1', 'RL.0', 'UD.3', 'UD.4')
+departed vehicle list: ()
+arrived vehicle list: ('DU.4',)
+LR.0: (x:90.32741915688663, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:91.42833328779989, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:108.10074112294666, y:108.0), (angle:4.71238898038469)
+UD.3: (x:108.0, y:176.91365724714967), (angle:0.0)
+UD.4: (x:108.0, y:152.48279899331246), (angle:0.0)
+
+
+after optimization:
+Timestamp = 47, Vehicle = LR.0
+(90.7471, 92.7824, 1.49644)
+
+Timestamp = 47, Vehicle = LR.1
+(91.9393, 95.787, 1.47492)
+
+Timestamp = 47, Vehicle = RL.0
+(108.077, 104.205, -1.6948)
+
+Timestamp = 47, Vehicle = UD.3
+(110.76, 176.6, -0.112834)
+
+Timestamp = 47, Vehicle = UD.4
+(105.102, 154.042, -0.189595)
+
+
+
+end time 47
+
+time: 48
+current time: 48.0
+current vehicle list: ('LR.0', 'LR.1', 'RL.0', 'UD.3', 'UD.4')
+departed vehicle list: ()
+arrived vehicle list: ()
+LR.0: (x:94.97574011807144, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:97.64009766792616, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:101.74105135084088, y:108.0), (angle:4.71238898038469)
+UD.3: (x:108.0, y:186.2208396343098), (angle:0.0)
+UD.4: (x:108.0, y:162.0710190806857), (angle:0.0)
+
+
+after optimization:
+Timestamp = 48, Vehicle = LR.0
+(94.448, 96.1736, 1.57132)
+
+Timestamp = 48, Vehicle = LR.1
+(97.1073, 99.3446, 1.58308)
+
+Timestamp = 48, Vehicle = RL.0
+(100.545, 108.861, -1.73022)
+
+Timestamp = 48, Vehicle = UD.3
+(106.752, 186.745, -0.102456)
+
+Timestamp = 48, Vehicle = UD.4
+(109.752, 162.318, -0.0693115)
+
+
+
+end time 48
+
+time: 49
+current time: 49.0
+current vehicle list: ('LR.0', 'LR.1', 'RL.0', 'UD.3', 'UD.4')
+departed vehicle list: ()
+arrived vehicle list: ()
+LR.0: (x:101.08212265931348, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:105.9290957314409, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:92.83245765602175, y:108.0), (angle:4.71238898038469)
+UD.3: (x:108.0, y:196.40370089653445), (angle:0.0)Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Warning:  Levenberg-Marquardt giving up because cannot decrease error with maximum lambda
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 0 ACT 0 BUF 0)                       Step #64.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 13 ACT 0 BUF 0)                     
+
+UD.4: (x:108.0, y:171.616639892211), (angle:0.0)
+
+
+after optimization:
+Timestamp = 49, Vehicle = LR.0
+(100.401, 93.3208, 1.93346)
+
+Timestamp = 49, Vehicle = LR.1
+(103.685, 97.9517, 1.93119)
+
+Timestamp = 49, Vehicle = RL.0
+(95.4582, 107.84, -1.56672)
+
+Timestamp = 49, Vehicle = UD.3
+(106.338, 195.276, 0.0921448)
+
+Timestamp = 49, Vehicle = UD.4
+(104.878, 172.033, -0.127121)
+
+
+
+end time 49
+
+time: 50
+current time: 50.0
+current vehicle list: ('LR.0', 'LR.1', 'RL.0', 'UD.4')
+departed vehicle list: ()
+arrived vehicle list: ('UD.3',)
+LR.0: (x:109.7395215452211, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:114.07034831768716, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:83.84026176370801, y:108.0), (angle:4.71238898038469)
+UD.4: (x:108.0, y:181.58061256459297), (angle:0.0)
+
+
+after optimization:
+Timestamp = 50, Vehicle = LR.0
+(108.812, 92.6015, 1.45923)
+
+Timestamp = 50, Vehicle = LR.1
+(113.444, 95.2795, 1.48841)
+
+Timestamp = 50, Vehicle = RL.0
+(81.5609, 109.995, -1.30962)
+
+Timestamp = 50, Vehicle = UD.4
+(111.341, 180.884, 0.0938472)
+
+
+
+end time 50
+
+time: 51
+current time: 51.0
+current vehicle list: ('LR.0', 'LR.1', 'RL.0', 'UD.4')
+departed vehicle list: ()
+arrived vehicle list: ()
+LR.0: (x:120.02363603737405, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:121.29535316417417, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:75.06816383634978, y:108.0), (angle:4.71238898038469)
+UD.4: (x:108.0, y:191.5559449828676), (angle:0.0)
+
+
+after optimization:
+Timestamp = 51, Vehicle = LR.0
+(121.592, 92.9367, 1.5055)
+
+Timestamp = 51, Vehicle = LR.1
+(122.693, 96.3334, 1.56079)
+
+Timestamp = 51, Vehicle = RL.0
+(75.2706, 108.625, -1.76485)
+
+Timestamp = 51, Vehicle = UD.4
+(105.627, 194.803, 0.201837)
+
+
+
+end time 51
+
+time: 52
+current time: 52.0
+current vehicle list: ('LR.0', 'LR.1', 'RL.0')
+departed vehicle list: ()
+arrived vehicle list: ('UD.4',)
+LR.0: (x:130.33185711855654, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:129.1867588819706, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:66.85485274269693, y:108.0), (angle:4.71238898038469)
+
+
+after optimization:
+Timestamp = 52, Vehicle = LR.0
+(129.058, 89.7454, 1.66373)
+
+Timestamp = 52, Vehicle = LR.1
+(127.626, 92.7032, 1.65305)
+
+Timestamp = 52, Vehicle = RL.0
+(66.7943, 106.664, -1.71671)
+
+
+
+end time 52
+
+time: 53
+current time: 53.0
+current vehicle list: ('LR.0', 'LR.1', 'RL.0')
+departed vehicle list: ()
+arrived vehicle list: ()
+LR.0: (x:141.13676298215557, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:137.34791150004708, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:57.645114427028744, y:108.0), (angle:4.71238898038469)
+
+
+after optimization:
+Timestamp = 53, Vehicle = LR.0
+(141.68, 90.1923, 1.73244)
+
+Timestamp = 53, Vehicle = LR.1
+(137.597, 92.1377, 1.71184)
+
+Timestamp = 53, Vehicle = RL.0
+(55.7111, 108.931, -1.35826)
+
+
+
+end time 53
+
+time: 54
+current time: 54.0
+current vehicle list: ('LR.0', 'LR.1', 'RL.0')
+departed vehicle list: ()
+arrived vehicle list: ()
+LR.0: (x:150.7263777005203, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:145.0286066749151, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:48.86183044054854, y:108.0), (angle:4.71238898038469)
+
+
+after optimization:
+Timestamp = 54, Vehicle = LR.0
+(149.689, 92.9285, 1.59579)
+
+Timestamp = 54, Vehicle = LR.1
+(143.809, 96.2258, 1.57595)
+
+Timestamp = 54, Vehicle = RL.0
+(46.2392, 106.672, -1.39555)
+
+
+
+end time 54
+
+time: 55
+current time: 55.0
+current vehicle list: ('LR.0', 'LR.1', 'RL.0')
+departed vehicle list: ()
+arrived vehicle list: ()
+LR.0: (x:161.15052148888233, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:152.46934090373358, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:39.77303785116883, y:108.0), (angle:4.71238898038469)
+
+
+after optimization:
+Timestamp = 55, Vehicle = LR.0
+(161.456, 92.4479, 1.57783)
+
+Timestamp = 55, Vehicle = LR.1
+(152.806, 95.8902, 1.525)
+
+Timestamp = 55, Vehicle = RL.0
+(41.2877, 107.414, -1.58352)
+
+
+
+end time 55
+
+time: 56
+current time: 56.0
+current vehicle list: ('LR.0', 'LR.1', 'RL.0')
+departed vehicle list: ()
+arrived vehicle list: ()
+LR.0: (x:171.64650741040506, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:159.6206735848016, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:31.304809000838375, y:108.0), (angle:4.71238898038469)
+
+
+after optimization:
+Timestamp = 56, Vehicle = LR.0
+(173.993, 90.3122, 1.43193)
+
+Timestamp = 56, Vehicle = LR.1
+(159.598, 93.7799, 1.82054)
+
+Timestamp = 56, Vehicle = RL.0
+(31.7795, 104.623, -2.00682)
+
+
+
+end time 56
+
+time: 57
+current time: 57.0
+current vehicle list: ('LR.0', 'LR.1', 'RL.0')
+departed vehicle list: ()
+arrived vehicle list: ()
+LR.0: (x:181.51895978730823, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:167.32536973280764, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:22.232803358164205, y:108.0), (angle:4.71238898038469)
+
+
+after optimization:
+Timestamp = 57, Vehicle = LR.0
+(184.14, 92.7687, 1.48341)
+
+Timestamp = 57, Vehicle = LR.1
+(166.474, 92.9006, 1.46143)
+
+Timestamp = 57, Vehicle = RL.0
+(23.1874, 106.456, -1.6127)
+
+
+
+end time 57
+
+time: 58
+current time: 58.0
+current vehicle list: ('LR.0', 'LR.1', 'RL.0')
+departed vehicle list: ()
+arrived vehicle list: ()
+LR.0: (x:191.7795750550564, y:92.0), (angle:1.5707963267948966)
+LR.1: (x:175.2671806787188, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:13.540274289786169, y:108.0), (angle:4.71238898038469)
+
+
+after optimization:
+Timestamp = 58, Vehicle = LR.0
+(189.945, 92.1611, 1.50585)
+
+Timestamp = 58, Vehicle = LR.1
+(175.306, 97.0312, 1.61782)
+
+Timestamp = 58, Vehicle = RL.0
+(16.2033, 106.402, -1.4799)
+
+
+
+end time 58
+
+time: 59
+current time: 59.0
+current vehicle list: ('LR.1', 'RL.0')
+departed vehicle list: ()
+arrived vehicle list: ('LR.0',)
+LR.1: (x:182.79525001505937, y:95.2), (angle:1.5707963267948966)
+RL.0: (x:5.173695975399625, y:108.0), (angle:4.71238898038469)
+
+
+after optimization:
+Timestamp = 59, Vehicle = LR.1
+(181.354, 95.3167, 1.30106)
+
+Timestamp = 59, Vehicle = RL.0
+(2.52271, 104.722, -1.41307)
+
+
+
+end time 59
+
+time: 60
+current time: 60.0
+current vehicle list: ('LR.1',)
+departed vehicle list: ()
+arrived vehicle list: ('RL.0',)
+LR.1: (x:190.74460783594444, y:95.2), (angle:1.5707963267948966)
+
+
+after optimization:
+Timestamp = 60, Vehicle = LR.1
+(189.73, 94.0717, 1.55045)
+
+
+
+end time 60
+
+time: 61
+current time: 61.0
+current vehicle list: ('LR.1',)
+departed vehicle list: ()
+arrived vehicle list: ()
+LR.1: (x:198.29013951302736, y:95.2), (angle:1.5707963267948966)
+
+
+after optimization:
+Timestamp = 61, Vehicle = LR.1
+(199.892, 95.8072, 1.1937)
+
+
+
+end time 61
+
+time: 62
+end time 62
+
+time: 63
+end time 63
+

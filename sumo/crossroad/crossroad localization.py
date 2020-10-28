@@ -15,6 +15,9 @@ import gtsam_unstable
 sumoBinary = "/usr/local/bin/sumo"
 sumoCmd = [sumoBinary, "-c", "cross.sumocfg"]
 
+seed = 1
+randomState = np.random.RandomState(seed)
+
 def printInfo():
     print(F"current time: {traci.simulation.getTime()}")
     print(F"current vehicle list: {traci.vehicle.getIDList()}")
@@ -24,14 +27,14 @@ def printInfo():
     for x in ids:
         pos = traci.vehicle.getPosition(x)
         angle = traci.vehicle.getAngle(x)
-        print(F"{x}: (x:{pos[0]}, y:{pos[1]}), (angle:{angle})")
+        print(F"{x}: (x:{pos[0]}, y:{pos[1]}), (angle:{angle / 180 * np.pi})")
     print("\n")
 
 max_range = 10
 
 gps_sigma_x, gps_sigma_y, gps_sigma_angle = 2, 2, np.pi * 10 / 180
-relative_sigma_x, relative_sigma_y, relative_sigma_angle = gps_sigma_x / 4, odom_sigma_y / 4, odom_sigma_angle / 4
-odom_sigma_x, odom_sigma_y, odom_sigma_angle = gps_sigma_x / 10, odom_sigma_y / 10, odom_sigma_angle / 10
+odom_sigma_x, odom_sigma_y, odom_sigma_angle = gps_sigma_x / 10, gps_sigma_y / 10, gps_sigma_angle / 10
+relative_sigma_x, relative_sigma_y, relative_sigma_angle = gps_sigma_x / 4, gps_sigma_y / 4, gps_sigma_angle / 4
 
 gps_noise = gtsam.noiseModel.Diagonal.Sigmas(np.array(
                         [gps_sigma_x, gps_sigma_y, gps_sigma_angle]))
@@ -49,7 +52,12 @@ new_timestamps = gtsam_unstable.FixedLagSmootherKeyTimestampMap()
 name = {}
 
 def symbol(x, t):
-    return gtsam.symbol(name[x], t)
+    # print("inside symbol:")
+    # print(name[x])
+    # print(t)
+    # print((name[x] << 15) + t)
+    # print("outside symbol")
+    return (name[x] << 15) + t
 
 def pose(x):
     pos = traci.vehicle.getPosition(x)
@@ -97,6 +105,7 @@ previous_states = {}
 traci.start(sumoCmd)
 time = 0
 while time <= 63:
+    print(F"time: {time}")
     if traci.vehicle.getIDCount():
         printInfo()
         ids = traci.vehicle.getIDList()
@@ -105,6 +114,11 @@ while time <= 63:
                 name[x] = len(name)
 
             current_key = symbol(x, time)
+            # print(F"current vehicle: {x}")
+            # print(F"current name: {name[x]}")
+            # print(F"current name after shift: {name[x]<<16}")
+            # print(F"current key: {current_key}")
+            # print("\n")
             new_timestamps.insert((current_key, time))
 
             gps_measurement = noise_gps_measurement(x)
@@ -126,18 +140,23 @@ while time <= 63:
                     continue
                 relative_measurement = noise_relative_measurement(i, j)
                 new_factors.push_back(gtsam.BetweenFactorPose2(
-                    symbol(i, t), symbol(j, t), relative_measurement, relative_noise
+                    symbol(i, time), symbol(j, time), relative_measurement, relative_noise
                 ))
 
+        # print(new_factors, new_values, new_timestamps)
+        smoother.update(new_factors, new_values, new_timestamps)
+        print("after optimization:")
         for x in ids:
             current_key = symbol(x, time)
-            smoother.update(new_factors, new_values, new_timestamps)
             print("Timestamp = " + str(time) + ", Vehicle = " + x)
             print(smoother.calculateEstimatePose2(current_key))
+        print('\n')
 
-        new_timestamps.clear()
-        new_values.clear()
-        new_factors.resize(0)
+    print(F"end time {time}\n")
+
+    new_timestamps.clear()
+    new_values.clear()
+    new_factors.resize(0)
             
     traci.simulationStep()
     time += 1 
