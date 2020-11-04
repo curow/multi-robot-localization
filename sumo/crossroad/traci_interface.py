@@ -18,8 +18,8 @@ import traci
 traci.start(sumoCmd)
 while not traci.vehicle.getIDCount():
     traci.simulationStep()
-printInfo()
+# printInfo()
 while traci.vehicle.getIDCount():
     traci.simulationStep()
-    printInfo()
+    # printInfo()
 traci.close()

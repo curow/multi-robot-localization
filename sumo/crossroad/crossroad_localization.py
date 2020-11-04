@@ -52,11 +52,6 @@ new_timestamps = gtsam_unstable.FixedLagSmootherKeyTimestampMap()
 name = {}
 
 def symbol(x, t):
-    # print("inside symbol:")
-    # print(name[x])
-    # print(t)
-    # print((name[x] << 15) + t)
-    # print("outside symbol")
     return (name[x] << 15) + t
 
 def pose(x):
